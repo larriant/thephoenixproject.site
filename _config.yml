@@ -1,0 +1,41 @@
+# Set theme
+remote_theme: daviddarnes/alembic
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://thephoenixproject.site'
+baseurl: ''
+title: 'The Phoenix Project'
+description: 'Ideas, visions and tools for a new global operating system.'
+permalink: pretty
+logo: "./assets/logos/tpplogo.png"
+
+# # Pagination
+# paginate: 5
+# paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+  Home: /
+  Imagining The Future: /imaginingthefuture/
+
+# Footer nav
+navigation_footer:
+  Back to top: "#top"
