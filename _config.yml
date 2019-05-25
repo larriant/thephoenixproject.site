@@ -25,7 +25,7 @@ baseurl: ''
 title: 'The Phoenix Project'
 description: 'Ideas, visions and tools for a new global operating system.'
 permalink: pretty
-logo: "./assets/logos/tpplogo.png"
+logo: "/assets/logos/tpplogo.png"
 
 # # Pagination
 # paginate: 5
