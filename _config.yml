@@ -35,6 +35,7 @@ logo: "/assets/logos/tpplogo.png"
 navigation_header:
   Home: /
   Imagining The Future: /imaginingthefuture/
+  Wiki: https://wiki.thephoenixproject.site
 
 # Footer nav
 navigation_footer:
