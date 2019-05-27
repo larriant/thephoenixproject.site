@@ -6,8 +6,6 @@ feature_text: |
   ## The Phoenix Project
 ---
 
-<div class='mailmunch-forms-widget-788826'></div>
-
 Confronting the climate and ecological collapse faced by our civilisation, it becomes clear that nothing less than a radical transformation of life on our planet will allow humanity to survive.
 
 Our metaphor for this radical transformation is The Phoenix.
@@ -22,4 +20,5 @@ We want to document these seeds, as well as our discoveries and investigations i
 
 The Phoenix Project was created by Will Franks and Julyan Davey.
 
+<div class='mailmunch-forms-widget-788826'></div>
 
