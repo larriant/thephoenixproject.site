@@ -29,20 +29,20 @@ We currently plan to be in the following places running the workshop:
 
 **Nowhere Festival** (9th - 14th July)
 
-## What is our aim?:
+## What is our aim?
 
 By collectively imagining new visions for the future, we can discover how to actively embody the world we want to live in. 
 
 Each one of these workshops is unique: an experiment in collective intelligence, an artwork co-created by all who attend: including you!
 
 
-## What is the context?:
+## What is the context?
 
 Our imaginations have been silenced.  We struggle to believe in the possibility of alternative lifestyles - let alone attempt living them. This is only natural: political and education systems must repress imaginations in order to create obedient economic robots. But now we are breaking free.
 
 All this comes at a time when human extinction looms large on the horizon; a multidimensional crisis-revolution continues to explode around us and within us. At this pivotal moment in Earth’s history, how can we use imagination and vision to reach the best possible future? After all, we can only move forward as fast as we build new ideas 
 
-## Conclusion:
+## Conclusion
 
 We can only navigate crises as well as we can conceive radically new ways of living. 
 
