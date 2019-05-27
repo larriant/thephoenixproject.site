@@ -3,7 +3,7 @@ layout: page
 title: Imagining The Future Workshop
 ---
 
-For a few months we have been following the question of how we can give people an experience in a few hours that will open the doorway to a new way of living and being? Lay the seeds of utopianism and metamodernism?
+For a few months we have been following the question of how we can give people an experience in a few hours that will open the doorway to a new way of living and being? And lay the seeds of utopianism and metamodernism?
 
 This questioning has resulted in the Imagining the Future workshop.
 
