@@ -16,3 +16,20 @@ styles: true
 a {
   color: #9C4027;
 }
+
+a:hover {
+  color: #4f1e10;
+}
+
+.typeset p a {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #9C4027 50%);
+}
+
+.typeset p a:hover {
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #4f1e10 50%);
+}
+
+.item--current a {
+  color: #9C4027;
+  text-decoration: underline;
+}
