@@ -20,5 +20,7 @@ We want to document these seeds, as well as our discoveries and investigations i
 
 The Phoenix Project was created by Will Franks and Julyan Davey.
 
+If you are interested in collaborating or have any questions contact us at: <thephoenixproject6@gmail.com>
+
 <div class='mailmunch-forms-widget-788826'></div>
 

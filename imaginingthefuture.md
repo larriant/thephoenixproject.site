@@ -57,6 +57,8 @@ This summer will be in the following places running the workshop:
 
 **Nowhere Festival** (9th - 14th July)
 
+If you are interested in collaborating or would like us to run the workshop with your group, community or venue contact us at: <thephoenixproject6@gmail.com>.
+
 <div class='mailmunch-forms-widget-788826'></div>
 
 
