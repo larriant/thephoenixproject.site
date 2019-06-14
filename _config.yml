@@ -33,9 +33,12 @@ logo: "/assets/logos/tpplogo.png"
 
 # Header nav
 navigation_header:
-  Home: /
-  Reclaiming Utopia: /reclaimingutopia/
-  Wiki: https://wiki.thephoenixproject.site
+- title: Home
+  url: /
+- title: Reclaiming Utopia 
+  url: /reclaimingutopia/
+- title: Wiki 
+  url: https://wiki.thephoenixproject.site
 
 # Footer nav
 navigation_footer:
