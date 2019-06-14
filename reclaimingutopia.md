@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Imagining The Future: Reclaiming Utopia Workshop"
+title: "Reclaiming Utopia Workshop"
 ---
 
 ![Painting](/assets/painting.jpg)
