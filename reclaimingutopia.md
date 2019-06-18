@@ -51,9 +51,9 @@ This summer will be in the following places running the workshop:
 
 **Ende Gelaende Climate Camp** (19th-24th June)
 
-**Vienna** (25th - 1st July)
+**Amsterdam** (25th - 31st June)
 
-**Barcelona** (2nd - 8th)
+**Barcelona** (6th - 8th July)
 
 **Nowhere Festival** (9th - 14th July)
 
