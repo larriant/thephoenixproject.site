@@ -41,13 +41,9 @@ Inspired by [metamodernism](https://metamoderna.org): the dance between extreme 
 
 Inspired by Joanna Macy's [The Work that Reconnects](https://workthatreconnects.org/).
 
-## Schedule
+### Upcoming Workshops
 
 This summer will be in the following places running the workshop:
-
-**Brussels** (12th-16th June)
-
-**Maastricht** (17th-18th June)
 
 **Ende Gelaende Climate Camp** (19th-24th June)
 
@@ -56,6 +52,12 @@ This summer will be in the following places running the workshop:
 **Barcelona** (6th - 8th July)
 
 **Nowhere Festival** (9th - 14th July)
+
+## Previous Workshops 
++ (11/06/19) XR group at Iggy's retreat center
++ (14/06/19) Childpress group in Brussels
++ (15/06/19) XR Brussels Groups
++ (18/06/19) Mandril Poltical and Community Center, Maastricht
 
 If you are interested in collaborating or would like us to run the workshop with your group, community or venue contact us at: <thephoenixproject6@gmail.com>.
 
