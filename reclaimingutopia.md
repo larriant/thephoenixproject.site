@@ -54,7 +54,7 @@ This summer will be in the following places running the workshop:
 **Nowhere Festival** (9th - 14th July)
 
 ## Previous Workshops 
-+ (11/06/19) XR group at Iggy's retreat center
++ (11/06/19) XR London group near Bergerac
 + (14/06/19) Childpress group in Brussels
 + (15/06/19) XR Brussels Groups
 + (18/06/19) Mandril Poltical and Community Center, Maastricht
