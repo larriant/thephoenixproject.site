@@ -55,9 +55,9 @@ This summer will be in the following places running the workshop:
 
 ## Previous Workshops 
 + (11/06/19) XR London group near Bergerac
-+ (14/06/19) Childpress group in Brussels
-+ (15/06/19) XR Brussels Groups
-+ (18/06/19) Mandril Poltical and Community Center, Maastricht
++ (14/06/19) [ChildPress](http://www.childpresscentre.org/) group in Brussels
++ (15/06/19) XR Brussels Group
++ (18/06/19) [Mandril Cultural and Political Center](http://mandril.eu/), Maastricht
 
 If you are interested in collaborating or would like us to run the workshop with your group, community or venue contact us at: <thephoenixproject6@gmail.com>.
 
