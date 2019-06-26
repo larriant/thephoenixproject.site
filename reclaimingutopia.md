@@ -60,7 +60,7 @@ If you are interested in collaborating or would like us to run the workshop with
 + (15/06/19) XR Brussels Group
 + (18/06/19) [Mandril Cultural and Political Center](http://mandril.eu/), Maastricht
     
-You can see poetry created in our workshops: [here](/reclaimingutopia/poetry).
+You can see poetry created in our workshops: [here](/reclaimingutopiapoetry).
 
 You can access our post-workshop journaling exercises: [here](/assets/ru-journaling.pdf).
 

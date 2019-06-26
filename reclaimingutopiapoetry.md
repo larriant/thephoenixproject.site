@@ -6,8 +6,6 @@ title: "Reclaiming Utopia Poetry"
 ![Painting](/assets/painting.jpg)
 
 
-# Reclaiming Utopia Poetry
-
 ## Untitled 1
 I’m feeling quiet. Separate.
 	For a time.
