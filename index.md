@@ -16,7 +16,7 @@ During our travels and explorations we have discovered glimmers of hope that the
 
 > “Another world is not only possible, she is on her way. On a quiet day, I can hear her breathing.” ― Arundhati Roy
 
-We want to document these seeds, as well as our discoveries and investigations in our [newsletter](https://thephoenixproject.substack.com), [wiki](https://www.thephoenixproject.site/wiki) and on this website.
+We want to document these seeds, as well as our discoveries and investigations in our [newsletter](https://thephoenixproject.substack.com), [wiki](https://wiki.thephoenixproject.site) and on this website.
 
 The Phoenix Project was created by Will Franks and Julyan Davey.
 
