@@ -9,20 +9,20 @@ The following poems were co-created during our [reclaiming utopia workshops](htt
 
 
 ## Untitled 1
-> I’m feeling quiet. Separate.
-> For a time.
-> But not unnoticed.
-> You are here to pick me up
-> and cast me towards the stars
-> not without coming to (still quiet, still separate).
-> Both. 
-> Why not both? 
-> Collapse then regrowth,
-> utopia from destruction.
-> Use stillness and quietness
-> on our own actions 
-> to create with right intentions.
-> Action = manifestation.
+> I’m feeling quiet. Separate.  
+> For a time 
+> But not unnoticed  
+> You are here to pick me up  
+> and cast me towards the stars  
+> not without coming to (still quiet, still separate).  
+> Both.   
+> Why not both?   
+> Collapse then regrowth,  
+> utopia from destruction.  
+> Use stillness and quietness  
+> on our own actions   
+> to create with right intentions.  
+> Action = manifestation.  
 
 
 ## Untitled 2
