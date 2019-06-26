@@ -45,20 +45,23 @@ Inspired by Joanna Macy's [The Work that Reconnects](https://workthatreconnects.
 
 This summer will be in the following places running the workshop:
 
-**Ende Gelaende Climate Camp** (19th-24th June)
-
 **Amsterdam** (25th - 31st June)
 
 **Barcelona** (6th - 8th July)
 
 **Nowhere Festival** (9th - 14th July)
 
+If you are interested in collaborating or would like us to run the workshop with your group, community or venue contact us at: <thephoenixproject6@gmail.com>.
+
+
 ## Previous Workshops 
 + (11/06/19) XR London group near Bergerac
 + (14/06/19) [ChildPress](http://www.childpresscentre.org/) group in Brussels
 + (15/06/19) XR Brussels Group
 + (18/06/19) [Mandril Cultural and Political Center](http://mandril.eu/), Maastricht
+    
+You can see poetry created in our workshops: [here](/reclaimingutopia/poetry).
 
-If you are interested in collaborating or would like us to run the workshop with your group, community or venue contact us at: <thephoenixproject6@gmail.com>.
+You can access our post-workshop journaling exercises: [here](/assets/ru-journaling.pdf).
 
 <div class='mailmunch-forms-widget-788826'></div>
