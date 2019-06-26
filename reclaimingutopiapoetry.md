@@ -14,7 +14,8 @@ The following poems were co-created by groups during our [reclaiming utopia work
 > But not unnoticed  
 > You are here to pick me up  
 > and cast me towards the stars  
-> not without coming to (still quiet, still separate).  
+> not without coming to  
+> (still quiet, still separate)  
 > Both.   
 > Why not both?   
 > Collapse then regrowth,  
