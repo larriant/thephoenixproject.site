@@ -41,9 +41,9 @@ Inspired by [metamodernism](https://metamoderna.org): the dance between extreme 
 
 Inspired by Joanna Macy's [The Work that Reconnects](https://workthatreconnects.org/).
 
-## Feedback
+## Testimonials
 
-> The Phoenix Project's "Reclaiming Utopia" workshop invites participants to discover both cognitive and embodied ressources within themselves to be active change makers in their communities. Through a well rhythmed combination of intellectually engaging and meditative exercises the workshop widens participants' field of the possible beyond existing paradigms. The hollistic experience Will and Julyan generate reveals the intrinsic value and meaningfulness to be found in working with others on projects we believe in. Participants discover the possibility of being grounded in themselves even whilst facing chaos in the world around them. As a group, they are brought together through creating bonds of sharing and trust. - Thomas Kaye (workshop participant)
+> The Phoenix Project's "Reclaiming Utopia" workshop invites participants to discover both cognitive and embodied resources within themselves to be active change makers in their communities. Through a well rhythmed combination of intellectually engaging and meditative exercises the workshop widens participants' field of the possible beyond existing paradigms. The holistic experience Will and Julyan generate reveals the intrinsic value and meaningfulness to be found in working with others on projects we believe in. Participants discover the possibility of being grounded in themselves even whilst facing chaos in the world around them. As a group, they are brought together through creating bonds of sharing and trust. - Thomas Kaye (workshop participant)
 
 ## Upcoming Workshops
 
