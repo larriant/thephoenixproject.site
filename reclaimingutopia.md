@@ -7,9 +7,9 @@ title: "Reclaiming Utopia Workshop"
 
 This workshop is about reclaiming our ability to imagine a better world. It’s about reconnecting with imagination and vision as core drivers of social change. 
 
-For years we have been following the question: how can we give people an experience in a few hours that will open the doorway to a new way of living and being? And lay the seeds of utopianism and [metamodernism](https://metamoderna.org)? 
+For years we have been following the question: how can we give people an experience in a few hours that will open the doorway to new ways of living and being?
 
-Our answers come together in the Imagining the Future workshop.
+Our answers come together in the Reclaiming Utopia workshop.
 
 By collectively exploring new visions for the future and how we can live them out in the present moment, we can discover how to actively embody the world we want to live in. 
 
@@ -23,7 +23,7 @@ Our imaginations have been silenced.  We struggle to believe in the possibility 
 
 ![Climate Change](/assets/climatechange.jpg)
 
-All this comes at a time when human extinction looms large on the horizon; multiple crises and revolutions continue to explode around us and within us. At this pivotal moment in Earth’s history, how can we use imagination and vision to reach the best possible future?  
+All this comes at a time when human extinction looms large on the horizon; multiple crises and revolutions continue to explode around us and within us. At this pivotal moment in Earth’s history, how can we use imagination and vision to navigate collapse and build a free and just society?  
 
 We can only navigate crises as well as we can conceive radically new ways of living. In this way, humanity’s current challenges can be seen not just as causes for despair but as shining lights of opportunity that a new world can be born - even in the face of collapse.
 
